@@ -1,8 +1,3 @@
-sage_kirk:
-  name: 'Sage Kirk'
-  image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
-mike_vance:
-  name: 'Mike Vance'
-  image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
+lor_ant0:
+  name: "Lorenzo Antei"
+  image: "assets/images/author/lor_ant0.jpg"

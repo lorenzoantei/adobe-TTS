@@ -1,12 +1,22 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-atlantic-theme",
+    "link": "https://github.com/lorenzoantei",
     "image": "https://simpleicons.org/icons/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "https://simpleicons.org/icons/twitter.svg"
+    "name": "Instagram",
+    "link": "https://www.instagram.com/lorenzo.antei",
+    "image": "https://simpleicons.org/icons/instagram.svg"
+  },
+  {
+    "name": "Telegram",
+    "link": "t.me/lorenzoantei",
+    "image": "https://simpleicons.org/icons/telegram.svg"
+  },
+  {
+    "name": "e-mail",
+    "link": "mailto:lorenzoantei@protonmail.com",
+    "image": "https://simpleicons.org/icons/protonmail.svg"
   }
 ]

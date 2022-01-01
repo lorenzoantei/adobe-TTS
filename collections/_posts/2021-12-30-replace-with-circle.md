@@ -10,7 +10,9 @@ image: "https://i.stack.imgur.com/nbCNE.png"
 layout: post
 ---
 
-<a href="../../assets/js/catalogue/ai__replace-with-circle.js" download>Click to Download</a>
+<div class="flex justify-center">
+<a class="p-6 border bg-red-700 hover:opacity-70 transition duration-300 ease-in-out text-bold hover:text-white" href="../../collections/precious/ai/ai__replace-with-circle.js" download>Click to Download</a>
+</div>
 
 ```
 //DESCRIPTION:Fill shape with packed circles

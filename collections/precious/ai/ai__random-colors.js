@@ -1,3 +1,5 @@
+//fill with random colors
+
 mySelection = app.activeDocument.selection;
 myDoc = app.activeDocument;
 if (mySelection instanceof Array)
